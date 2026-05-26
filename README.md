@@ -26,8 +26,8 @@
 ### 📊 Моя GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=dark&hide_border=true" alt="Статистика GitHub" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=dark&hide_border=true" alt="Топ языков" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuperJeetМ&show_icons=true&theme=dark&hide_border=true" alt="Статистика GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperJeet&layout=compact&theme=dark&hide_border=true" alt="Топ языков" width="45%" />
 </p>
 
 ---
